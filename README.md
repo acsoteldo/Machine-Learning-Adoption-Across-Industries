@@ -48,9 +48,7 @@ Understanding the factors influencing ML adoption within specific industries is 
 * Understanding the industries that are lagging behind in ML adoption presents opportunities for technology providers and service vendors to tailor their offerings and support initiatives aimed at accelerating adoption within these sectors.
 
 ## Hypothesis
-Industries with a higher level of digital transformation and data-centric operations are more likely to adopt machine learning technologies.
 The level of data science and machine learning talent within an organization positively correlates with the adoption of ML technologies.
-The size and resources of an organization play a significant role in its ability to adopt and implement ML solutions effectively.
 
 ## Vision
 To become a source of insights and knowledge on industry-specific machine learning adoption trends, empowering businesses, policymakers, and individuals to make informed decisions, drive innovation, and foster the widespread adoption of machine learning technologies across diverse sectors.
