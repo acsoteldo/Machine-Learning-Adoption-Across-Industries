@@ -54,7 +54,9 @@ The level of data science and machine learning talent within an organization pos
 To become a source of insights and knowledge on industry-specific machine learning adoption trends, empowering businesses, policymakers, and individuals to make informed decisions, drive innovation, and foster the widespread adoption of machine learning technologies across diverse sectors.
 
 ## Objective
-* 
+* Visualize the adoption rates of ML technologies across various industries to highlight sectors that are leading in implementation and innovation.
+* Examine how company size within different industries affects the rate of ML adoption, providing insights into whether larger organizations are more inclined to integrate ML technologies.
+* Evaluate how years of ML experience among employees within different industries correlate with the adoption of ML technologies, emphasizing the importance of skilled talent in driving ML initiatives.
 
 ## Key Insights
 ### Dashboard
