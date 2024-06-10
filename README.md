@@ -60,6 +60,7 @@ To become a source of insights and knowledge on industry-specific machine learni
 
 ## Key Insights
 ### Dashboard
+![image](https://github.com/acsoteldo/Machine-Learning-Adoption-Across-Industries/assets/76544489/a5f8da18-98a8-490f-9fee-7e0dbdc8aece)
 
 ## Next Steps
 * Organize workshops and webinars tailored to different industries to educate professionals about the benefits and applications of machine learning in their respective fields.
