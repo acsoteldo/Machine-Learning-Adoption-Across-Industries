@@ -12,7 +12,7 @@ Analyzing Factors and Impact Across Sectors
 Excel, Jupyter, Python, SQL, Tableau
 
 ### Data Sources:
-This dataset includes the options that a diverse group of users on the Google form decided on. 20 questions were on the google form. Most questions revolve around various aspects of programming, including languages, platforms, and experience (see data/ folder for questions).
+This dataset includes the options that a diverse group of users on the Google form decided on. 20 questions were on the google form. Most questions revolve around various aspects of programming, including languages, platforms, and experience (see _data/_ for questions).
 
 The analysis will be based on the cleaned dataset, which includes the following fields:
 * Person_ID
