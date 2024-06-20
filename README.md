@@ -60,6 +60,13 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Evaluate how years of ML experience among employees within different industries correlate with the adoption of ML technologies, emphasizing the importance of skilled talent in driving ML initiatives.
 
 ## Key Insights
+* The majority of respondents are male, aged 18 to 29.
+* More programming experience correlates with greater ML experience across all age groups.
+* Industries with higher average years of ML experience and higher educational qualifications show higher levels of ML adoption, highlighting the importance of experienced talent.
+* Computers/Technology and Accounting/Finance lead in both ML adoption and experience, influenced by the majority of respondents working in the CS sector.
+* Hospitality/Entertainment and Academics/Education have high average ML experience but lower adoption rates, indicating potential for leveraging experienced talent.
+* Larger data science teams are more likely to have well-established ML methods, while smaller teams are typically in the exploration phase of ML.
+
 ### Dashboard
 ![image](https://github.com/acsoteldo/Machine-Learning-Adoption-Across-Industries/assets/76544489/a5f8da18-98a8-490f-9fee-7e0dbdc8aece)
 
