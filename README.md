@@ -71,10 +71,11 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 ![image](https://github.com/acsoteldo/Machine-Learning-Adoption-Across-Industries/assets/76544489/a5f8da18-98a8-490f-9fee-7e0dbdc8aece)
 
 ## Next Steps
-* Use the dataset to develop targeted educational sessions that highlight the benefits and applications of machine learning in various industries.
-* Facilitate events that encourage cross-industry collaboration, enabling professionals to learn from each other's experiences and accelerate ML adoption within their organizations.
-* Provide short-term training courses and certifications in machine learning to help professionals enhance their skills, stay updated with industry trends, and boost their career prospects.
-* Use insights from the dataset to advocate for regulations that balance innovation with privacy, security, and fairness, thereby fostering confidence and wider adoption of machine learning technologies.
+* Design industry-specific workshops to highlight the benefits and applications of machine learning in various sectors.
+* Organize events that promote collaboration and idea exchange among professionals to accelerate ML adoption within organizations.
+* Provide training programs in machine learning to help professionals enhance their skills, stay current with industry trends, and boost their career prospects.
+* Support regulations that encourage innovation while ensuring privacy, security, and fairness, fostering greater confidence in ML technologies.
+* Continuously use dataset insights to update and improve the educational sessions, ensuring they remain relevant and effective.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
