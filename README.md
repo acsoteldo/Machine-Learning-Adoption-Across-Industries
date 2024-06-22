@@ -79,3 +79,19 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
+
+## References
+[^1]: Data Source: Kaggle
+https://www.kaggle.com/datasets/meghaha/tech-trend
+
+[^2]: Impact of Machine Learning Across Various Industries
+https://www.linkedin.com/pulse/impact-machine-learning-across-various-industries-thecodework-ja9vc/
+
+[^3]: How Many U.S. Businesses Use Artificial Intelligence?
+https://www.census.gov/library/stories/2023/11/businesses-use-ai.html
+
+[^4]: Top Artificial Intelligence Statistics and Facts for 2024
+https://connect.comptia.org/blog/artificial-intelligence-statistics-facts
+
+[^5]: Data Mining and Analytics in the Process Industry: The Role of Machine Learning
+https://ieeexplore.ieee.org/abstract/document/8051033#full-text-header
